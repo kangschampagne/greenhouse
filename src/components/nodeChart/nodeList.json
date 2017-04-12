@@ -1,0 +1,35 @@
+[{
+    "name": "node-1",
+    "title": "感测节点-1",
+    "url": "getchartdata.php",
+    "param": {
+      "location": "1",
+      "start": "2015-06-11",
+      "end": "2015-06-16"
+    }
+  },
+  {
+    "name": "node-2",
+    "title": "感测节点-2",
+    "url": "getchartdata.php",
+    "param": {
+      "location": "2",
+      "start": "2015-06-11",
+      "end": "2015-06-16"
+    }
+  },
+  {
+    "name": "esp_02",
+    "title": "感测节点-esp2",
+    "url": "esp02.php",
+    "param": {
+      "clusterid": "ESP02_S1",
+      "location": "esp_02",
+      "start": "2016-09-27",
+      "item": "10000"
+    }
+  }
+
+
+
+]
