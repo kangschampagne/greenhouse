@@ -28,6 +28,17 @@
       "start": "2016-09-27",
       "item": "10000"
     }
+  },
+  {
+    "name": "lab_01",
+    "title": "感测节点-lab_01",
+    "url": "getlabdata.php",
+    "param": {
+      "clusterid": "LAB_01",
+      "location": "lab_01",
+      "start": "2017-04-14",
+      "item": "100"
+    }
   }
 
 
